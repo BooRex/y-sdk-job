@@ -24,7 +24,8 @@ class AppControllerTest extends TestCase
         return [
             [5, 25],
             [6, 36],
-            [2, 5],
+            [2, 4],
+            [4, 15]
         ];
     }
 }
